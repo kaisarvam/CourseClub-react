@@ -1,0 +1,24 @@
+.image-width{
+width: 500px;
+}
+.custom-height{
+   min-height:550px;
+}
+
+.card-width{
+    width: 18rem;
+}
+.star-color{
+color: gold;
+}
+.img-width{
+    width: 80px;
+}
+.custom-footer-fix{
+    height: 320px ;
+
+}
+.border-class{
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0) !important;
+}

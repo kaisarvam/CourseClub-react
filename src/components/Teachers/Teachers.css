@@ -1,0 +1,12 @@
+.new-card{
+    height: 550px;
+    width: 350px;
+    box-shadow: 1px 1px 20px rgb(0, 0, 0) !important;
+}
+.footer-size{
+    height:100px
+}
+.img-sizing{
+    width:350px;
+    text-align: center;
+}

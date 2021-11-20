@@ -1,0 +1,204 @@
+
+    [
+
+    {
+    "serviceId": 1,
+    "price" : 120,
+    "discount" : 90,
+	"id": 1,
+    "image":"https://img-c.udemycdn.com/course/240x135/2327564_1460_3.jpg",
+	"title": "Learn English Vocabulary in 30 days ",
+    "description": " Get Fluent with Friends so that you can , Understand what natives are saying without needing to ask them to slow down or repeat.Permanently remember vocabulary and expressions that are used every day by natives.Enjoy watching your favorite movies and TV series without subtitles.Meet and make friends around the world in the Fluency.Circle community.Master native pronunciation and be understood by anyone when speaking. ",
+    "author" : "Marlin J. Duhon",
+    "authorImage": "https://randomuser.me/api/portraits/women/2.jpg",
+    "rating" : 4.5,
+    "rated": 1025
+
+},
+{
+    "serviceId": 2,
+	"id": 2,
+    "price" : 90,
+    "discount" : 85,
+    "image":"https://img-c.udemycdn.com/course/240x135/658816_38ae_4.jpg",
+	"title": "learn guitar in 30 days",
+    "description": " This course continues where “Introduction to Guitar Playing” left off and addresses the needs of new guitar players like you for the guitar fundamentals. Rhythm Guitar I begins by helping you learn & practice concepts like strumming, fingerpicking, playing chords, reading chord diagrams, playing barre chords, and more. Once you have mastered these skills, you’ll be able to understand how to approach learning new songs through theory concepts like reading TABs and chord charts, vocalizing rhythm patterns, and many more techniques. By the end of the course, you will have learned countless rhythm guitar techniques that will allow you to pick up new songs across a wide range of genres, all on your own. ",
+    "author" : "Vivian J. Williams",
+    "authorImage": "https://randomuser.me/api/portraits/men/3.jpg",
+    "rating" : 4.8,
+    "rated": 2025
+},
+{
+    "serviceId": 3,
+	"id": 3,
+    "price" : 100,
+    "discount" : 80,
+    "image":"https://img-c.udemycdn.com/course/240x135/4179698_829c.jpg",
+	"title": "learn Arabic in 30 days",
+    "description": "Arabic is a Southern-Central Semitic language. It is spoken in most parts of the Arabian Peninsula, parts of Middle East and North Africa. In these regions, the languages with the most number of speakers, in chronological order are Arabic, Persian, Turkish, Kurdish and Hebrew. These languages belong to different language families. Turkish is part of the Turkic family. The Indo-European language family is represented by Kurdish and Persian. Hebrew and Arabic belong to the Afro-Asiatic language family. Aside from these major languages, people in the Middle East speak around 20 minority languages. Arabic is a macrolanguage that has 30 modern varieties or dialects. Literary Arabic, which is also called Standard Arabic or Modern Standard Arabic (MSA), is used today in formal speech and in writing in the Arab world while Classical Arabic was used in Islamic literature of the 7th to 9th centuries. It is the language of the Qurʾān. ",
+    "author" : "Robert E. Bonin",
+    "authorImage": "https://randomuser.me/api/portraits/men/4.jpg",
+    "rating" : 3.8,
+    "rated": 2885
+    
+},
+{
+    "serviceId": 4,
+	"id": 4,
+    "price" : 90,
+    "discount" : 85,
+    "image":"https://img-c.udemycdn.com/course/240x135/2145494_09d1_7.jpg",
+	"title": "learn photoshop for beginners",
+    "description": "Photoshop is the prime editing tool for designers and photographers for decades. Over the years It has involved magically compared to the older versions. Photoshop now can do any kind of design related things, whether it can be graphic design, UI Design, photo editing even animations.It is really important to know the basics of photoshop if you are an IT professional. Learning photoshop is not a big deal, all you need is find some time for it.",
+    "author" : "Brian D. Gonzalez",
+    "authorImage": "https://randomuser.me/api/portraits/men/4.jpg",
+    "rating" : 4.9,
+    "rated": 4005
+    
+},
+{
+    "serviceId": 5,
+	"id": 5 ,
+    "price" : 120,
+    "discount" : 90,
+    "image":"https://img-c.udemycdn.com/course/240x135/3691418_c8da.jpg",
+	"title": "learn cv writing using Ms Word",
+    "description": "I’m regularly in front of recruiters and hiring managers, and I’m always showing them resumés for feedback on areas of improvements or what they see in an ideal candidate.After my latest foray up to the Bay Area and down to Orange County, I learned from talking to hiring managers and recruiters they really look for certain - and critical - qualities in a resumé.Not only did their feedback help me to update my one-page summary of “Resumé Writing in a Nutshell” – a handout I give to students of what I learned from online combined with my own experience – it complimented and reinforced what I consider essential to writing an effective resumé.",
+    "author" : "James H. Davis",
+    "authorImage": "https://randomuser.me/api/portraits/men/5.jpg",
+    "rating" : 4.2,
+    "rated": 1057
+},
+{
+    "serviceId": 6,
+	"id": 6,
+    "price" : 90,
+    "discount" : 85,
+    "image":"https://img-c.udemycdn.com/course/240x135/595876_f52f_18.jpg",
+	"title": "learn logo Design with Adobe PS & AI",
+    "description": "Your logo is the visual representation of your brand—and everything it stands for. At a glance, it should reflect your brand’s personality and promise. Ideally, it will be memorable and stand out from the crowd.If you are in the process of starting a blog or a small business, you may not have the resources available to hire a designer to develop your logo. This guide was developed to help small business owners with no design experience understand how to create an effective logo.",
+    "author" : "Moises A. Ecker",
+    "authorImage": "https://randomuser.me/api/portraits/men/6.jpg",
+    "rating" : 2.8,
+    "rated": 1727
+},
+{
+    "serviceId": 7,
+	"id": 7,
+    "price" : 120,
+    "discount" : 90,
+    "image":"https://img-c.udemycdn.com/course/240x135/461160_8d87_6.jpg",
+	"title": "learn node js in 3 month for beginners",
+    "description": "Node.js is a software platform to create fast, scalable web applications quickly. These applications also use JavaScript on the server and web browsers.Two of the biggest programming problems today, and the past decade, are how to handle concurrency and blocking. Concurrency is the ability for a computer system to handle multiple requests at the same time, including requests that must interact with each other. Blocking happens when a computer process has to halt to let an earlier process complete. ",
+    "author" : "Fred A. Deegan",
+    "authorImage": "https://randomuser.me/api/portraits/men/7.jpg",
+    "rating" : 3.0,
+    "rated": 1257
+},
+{
+    "serviceId": 8,
+	"id": 8,
+    "price" : 150,
+    "discount" : 90,
+    "image":"https://img-c.udemycdn.com/course/240x135/1513820_cbab.jpg",
+	"title": "learn php with projects for beginners",
+    "description": "PHP is probably the most popular web development language right now. At least 20 million domains use PHP and it’s the language used on major sites such as Wikipedia and Facebook as well as in some of the world’s biggest open source projects like WordPress and Drupal.PHP stands for Hypertext Preprocessor and it is a server side scripting language that is used to develop Static websites or Dynamic websites or Web applications. It is the preferred scripting language for tech giants such as Facebook, Wikipedia, and Tumblr despite full-stack JavaScript gaining popularity with upcoming developers. This PHP Tutorial will help you know about the various aspects involved in the learning of PHP.",
+    "author" : "Charles G. Adams",
+    "authorImage": "https://randomuser.me/api/portraits/men/8.jpg",
+    "rating" : 3.5,
+    "rated": 2932
+},
+{
+    "serviceId": 9,
+	"id": 9,
+    "price" : 90,
+    "discount" : 90,
+    "image":"https://img-c.udemycdn.com/course/240x135/4097896_fb97.jpg",
+	"title": "learn Google analytics For SEO",
+    "description": "Search Engine Optimization or SEO is one of the main aspects of digital marketing. As per Wiki definition: Search engine optimization (SEO) is the process of affecting the online visibility of a website or a web page in a web search engine’s unpaid results—often referred to as “natural”, “organic”, or “earned” results.Most of us, for any questions, usually search on Google and generally view the first few results. That kind of explains the importance of SEO. So how do we get our page to rank higher when a user searches for a keyword related to our product or service? To start with, the most basic thing is to know what our target users search for. What keywords they use and when do they search for these products/services. We also need to know who these audiences are, their demographics, gender, age, etc. ",
+    "author" : "Ty R. Davis",
+    "authorImage": "https://randomuser.me/api/portraits/men/9.jpg",
+    "rating" : 3.8,
+    "rated": 3505
+},
+{
+    "serviceId": 10,
+	"id": 10,
+    "price" : 120,
+    "discount" : 80,
+    "image":"https://img-c.udemycdn.com/course/240x135/725906_4ed8_2.jpg",
+	"title": "learn piano in 6 month",
+    "description": "Explore the piano “hands on” and begin to understand the geography of the keyboard. She will be delighted with her very first piano book and put all her budding fine-motor skills to work learning hand positions.  This unique experience that takes the movement and instrument time he craves and pairs it with piano exploration to give him a glimpse of future music lessons.We created a unique experience that combines “hands on” using their first piano book, Meet the Music Friends, with movement, instruments, and rhythm reading. We know that a social experience is best for these young children who want so much to learn to play the piano, yet their fingers are still learning to move independently. ",
+    "author" : "Michael J. Jackson",
+    "authorImage": "https://randomuser.me/api/portraits/men/10.jpg",
+    "rating" : 4.2,
+    "rated": 2455
+},
+{
+    "serviceId": 11,
+	"id": 11,
+    "price" : 120,
+    "discount" : 85,
+    "image":"https://img-c.udemycdn.com/course/240x135/1509408_1868_16.jpg",
+	"title": "learn digital marketing for Everyone",
+    "description": "The interactive course teaches marketers the essential skills for running digital marketing on an Xperience website. Learn to set up campaigns, run your email marketing activities, and handle most other common digital marketing tasks.Who should take this course?Business users responsible for running online marketing activities on their websites, as well as users interested in introducing digital marketing to their web presence.What will you learn?The course introduces the basics of digital marketing. You'll learn how to use various digital marketing tactics on an Xperience website developed with Portal Engine",
+    "author" : "Timothy C. Reyna",
+    "authorImage": "https://randomuser.me/api/portraits/men/11.jpg",
+    "rating" : 3.5,
+    "rated": 3925
+},
+{
+    "serviceId": 12,
+	"id": 12,
+    "price" : 90,
+    "discount" : 70,
+    "image":"https://img-c.udemycdn.com/course/240x135/753174_8624_13.jpg",
+	"title": "The Complete Oracle SQL Certification",
+    "description": "In a world that database has been the hottest topic in technology, a good database developer requires the seriously marketable programming skills – SQL. Mastering SQL programming language and passing the Oracle SQL certification are very critical to get into the development career and become a high-paid Oracle SQL developer. If you are interested in going deep into databases and being able to launch your dream career as a professional Oracle SQL developer, here just is a right place to get started since we get the Udemy best-selling database development course, The Complete Oracle SQL Certification Course. Next, let’s move on to today’s topic, see if it is worthy of learning the complete Oracle SQL certification course.",
+    "author" : "Oscar A. Yates",
+    "authorImage": "https://randomuser.me/api/portraits/men/12.jpg",
+    "rating" : 3.9,
+    "rated": 2855
+},
+{
+    "serviceId": 13,
+	"id": 13,
+    "price" : 150,
+    "discount" : 90,
+    "image":"https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+	"title": "Modern React with Redux Crash Course",
+    "description": "Redux itself is a standalone library that can be used with any UI layer or framework, including React, Angular, Vue, Ember, and vanilla JS. Although Redux and React are commonly used together, they are independent of each other.If you are using Redux with any kind of UI framework, you will normally use a UI binding library to tie Redux together with your UI framework, rather than directly interacting with the store from your UI code. React Redux is the official Redux UI binding library for React. If you are using Redux and React together, you should also use React Redux to bind these two libraries.To understand why you should use React Redux, it may help to understand what a UI binding library does.",
+    "author" : "Donald R. Black",
+    "authorImage": "https://randomuser.me/api/portraits/men/13.jpg",
+    "rating" : 4.2,
+    "rated": 2605
+},
+{
+    "serviceId": 14,
+	"id": 14,
+    "price" : 200,
+    "discount" : 85,
+    "image":"https://img-c.udemycdn.com/course/240x135/3770834_6824_2.jpg",
+	"title": "The Complete Financial Analyst Course",
+    "description": "If you’re trying to prepare for an eventual career in finance, but are still looking to round out your knowledge of the subject, The Complete Financial Analyst Course might be a perfect fit for you., Business Insider . A Financial Analyst Career is one of the top-paying entry-level jobs on the market.Even in the toughest job markets, the best candidates find great positions., Forbes . You simply have to find a way to acquire practical skills that will give you an edge over the other candidates. But how can you do that ? You haven’t had the proper training, and you have never seen how analysts in large firms do their work … Stop worrying, please! We are here to help.",
+    "author" : "Shirley H. Campbell",
+    "authorImage": "https://randomuser.me/api/portraits/women/7.jpg",
+    "rating" : 4.5,
+    "rated": 2355
+},
+{
+    "serviceId": 15,
+	"id": 15,
+    "price" : 120,
+    "discount" : 80,
+    "image":"https://img-c.udemycdn.com/course/240x135/3409956_4440_2.jpg",
+	"title": "Blockchain and Bitcoin Fundamentals",
+    "description": "Blockchain is a technique for creating a highly tamper resistant, fault tolerant ledger for recording and validating transactions using encryption. While some think of blockchain exclusively as the engine behind cryptocurrencies like Bitcoin and Ethereum, the blockchain protocol has many other uses, and can be configured to offer anonymity and run on a decentralized basis. Innovations like smart contracts, cryptocurrencies administered by national banks, and its use for recording permanent records like land transfer records and private company stock ledgers. This session will provide an introduction to this disruptive technology, and will provide insights into how it might change the way we do business in the future. ",
+    "author" : "Danny K. Zepeda",
+    "authorImage": "https://randomuser.me/api/portraits/women/8.jpg",
+    "rating" : 2.5,
+    "rated": 3515
+}
+
+
+]

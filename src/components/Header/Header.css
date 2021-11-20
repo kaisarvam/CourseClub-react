@@ -1,0 +1,10 @@
+.badge-shadow{
+    box-shadow: 5px 5px 5px rgb(36, 255, 65) !important;
+}
+.inactive{
+    
+}
+.active{
+    background-color: rgb(39, 50, 201);
+    border-radius: 5px;
+}

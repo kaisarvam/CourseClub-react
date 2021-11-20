@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Donnie Arnold",
+        "description": " Teaching person to count is fine, but teaching them what counts is best.",
+        "image" : "https://randomuser.me/api/portraits/men/24.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Andrea Chambers",
+        "description": " Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+        "image" : "https://randomuser.me/api/portraits/women/24.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Michele Sparks",
+        "description": " Nine-tenths of education is encouragement.",
+        "image" : "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Rebecca Wagner",
+        "description": " Teachers have three loves: love of learning, love of learners, and the love of bringing the first two loves together.",
+        "image" : "https://randomuser.me/api/portraits/women/26.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jean Allen",
+        "description": " Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.",
+        "image" : "https://randomuser.me/api/portraits/women/27.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Peggy Jimenez",
+        "description": "I am not a teacher, but an awakener.",
+        "image" : "https://randomuser.me/api/portraits/women/28.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Allen Willis",
+        "description": "The art of teaching is the art of assisting discovery.",
+        "image" : "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Beatrice Carter",
+        "description": "To teach is to learn twice over.",
+        "image" : "https://randomuser.me/api/portraits/men/27.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Bertha Burgess",
+        "description": "A teacher affects eternity; he can never tell where his influence stops.",
+        "image" : "https://randomuser.me/api/portraits/women/30.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Eleanor Edwards",
+        "description": "Education is not the filling of a pail, but the lighting of a fire.",
+        "image" : "https://randomuser.me/api/portraits/men/30.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Luis Dunn",
+        "description": "They may forget what you said but they will not forget how you made them feel.",
+        "image" : "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Frankie Oliver",
+        "description": "All students can learn and succeed, but not in the same way and not in the same day.",
+        "image" : "https://randomuser.me/api/portraits/men/35.jpg"
+    }
+    
+]
